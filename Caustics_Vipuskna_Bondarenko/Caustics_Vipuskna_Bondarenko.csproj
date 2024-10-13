@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7BEE61D8-FFC7-4017-BE86-491980980872}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Caustics_Vipuskna_Bondarenko</RootNamespace>
+    <AssemblyName>Caustics_Vipuskna_Bondarenko</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmBrowser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBrowser.Designer.cs">
+      <DependentUpon>frmBrowser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCaustic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCaustic.Designer.cs">
+      <DependentUpon>frmCaustic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGallery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGallery.Designer.cs">
+      <DependentUpon>frmGallery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTheory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTheory.Designer.cs">
+      <DependentUpon>frmTheory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTitul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTitul.Designer.cs">
+      <DependentUpon>frmTitul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBrowser.resx">
+      <DependentUpon>frmBrowser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCaustic.resx">
+      <DependentUpon>frmCaustic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGallery.resx">
+      <DependentUpon>frmGallery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTheory.resx">
+      <DependentUpon>frmTheory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTitul.resx">
+      <DependentUpon>frmTitul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\каустика.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\768px-Eo_circle_yellow_arrow-left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\768px-Eo_circle_yellow_arrow-right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\каустика1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
