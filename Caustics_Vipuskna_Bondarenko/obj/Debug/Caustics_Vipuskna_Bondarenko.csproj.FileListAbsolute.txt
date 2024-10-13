@@ -1,0 +1,45 @@
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.exe.config
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.exe
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.pdb
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmTitul.resources
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.Properties.Resources.resources
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.exe
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.pdb
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmMain.resources
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmGallery.resources
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmCaustic.resources
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmBrowser.resources
+C:\Users\Никита\Desktop\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmTheory.resources
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.exe.config
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.exe
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.pdb
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmBrowser.resources
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmCaustic.resources
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmGallery.resources
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmMain.resources
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmTheory.resources
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmTitul.resources
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.Properties.Resources.resources
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.exe
+C:\Users\Никита\Desktop\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.pdb
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.exe.config
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.exe
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\bin\Debug\Caustics_Vipuskna_Bondarenko.pdb
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csprojAssemblyReference.cache
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmBrowser.resources
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmCaustic.resources
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmGallery.resources
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmMain.resources
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmTheory.resources
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.frmTitul.resources
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.Properties.Resources.resources
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csproj.GenerateResource.cache
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.csproj.CoreCompileInputs.cache
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.exe
+E:\LIT 22-23\Бондаренко, 11-В, Випускна робота\Caustics_Vipuskna_Bondarenko\Caustics_Vipuskna_Bondarenko\obj\Debug\Caustics_Vipuskna_Bondarenko.pdb
